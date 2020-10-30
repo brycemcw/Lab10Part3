@@ -1,0 +1,2 @@
+2020-10-29 23:05:18 INFO edu.baylor.ecs.si.Timer <clinit> starting the app
+2020-10-29 23:05:18 SEVERE edu.baylor.ecs.si.Timer timeMe InterruptedException rised
